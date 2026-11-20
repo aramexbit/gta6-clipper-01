@@ -1,0 +1,7 @@
+# gta6-clipper-01 — local build artefacts, never committed
+node_modules/
+out/
+*.mp4
+*.wav
+*.jpg
+.DS_Store
